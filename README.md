@@ -1,6 +1,6 @@
 # obsah
-[logo python](#Logo)
-[code s popisem](#code)
+- [logo python](#Logo)
+- [code s popisem](#code)
 # Logo
 ![images](https://github.com/user-attachments/assets/11fb867e-0ac2-4df2-960c-93840aac3d5c)
 
